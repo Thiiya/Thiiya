@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...frontend
 - 💞️ I’m looking to collaborate on ...anything to do with frontend
 - 📫 How to reach me ...https://linktr.ee/thiiya
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...him
 - ⚡ Fun fact: ... let me see
 
 <!---
